@@ -1,0 +1,1 @@
+<i class="spinner-border spinner-border-sm me-1"></i><?php /**PATH C:\xampp\htdocs\laravel\sumowebtools\components\resources\views/components/loading.blade.php ENDPATH**/ ?>
